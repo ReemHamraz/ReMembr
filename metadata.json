@@ -1,0 +1,7 @@
+{
+  "name": "ReMembr",
+  "description": "Secure, AI-powered memory assistant for recognizing visitors.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
